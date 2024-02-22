@@ -1,0 +1,8 @@
+Analiza sentimenta u recenzijama filmova pomoću neuroevolucije
+
+Implementacijski kod programa nalazi se u Python datoteci main.py.
+
+Program se jednostavno pokreće pomoću Python interpretera (Python 3).
+U konzolu upisati: python main.py
+
+Program se izvršava beskonačno i daje informativan ispis za svaku istreniranu generaciju populacije, sve dok se ne pošalje interrupt request s tipkovnice čime se program prestaje izvršavati.
