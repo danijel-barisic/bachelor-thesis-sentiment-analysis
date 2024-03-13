@@ -9,3 +9,7 @@ within the population.
 
 Keywords: neural networks (NN), LSTM, sentiment analysis, evolution, evolutionary
 algorithm (EA), selection, mutation, crossover, fitness, elitism, RNN, optimisation
+
+Code is contained in the main.py file.
+
+Python and Keras framework are used in the project.
